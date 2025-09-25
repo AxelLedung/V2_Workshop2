@@ -22,6 +22,8 @@ public class Main {
         System.out.println("hello branch");
 
         Person person = new Customer(name, 2021);
+        System.out.println(hej);
+        int felaktig = "String";
 
 
     }
