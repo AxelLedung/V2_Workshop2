@@ -13,6 +13,7 @@ public class Employee extends Person {
         ++nextEmployeeId;
         this.salary = salary;
         secret = 13;
+        System.out.println("En employee har skapats.");
 
     }
 
